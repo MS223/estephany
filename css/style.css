@@ -1,0 +1,103 @@
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,900,200italic,400italic|Lato:400,700,900|Josefin+Slab:400,700|Source+Code+Pro);
+
+  #header {
+    Font-family:cursive;
+    font-size: 1em;
+    background-color:;
+    color:red;
+    text-align:center;
+    padding: 1px;	 
+}
+#nav {
+    Font-family:cursive;
+    line-height:30px;
+    background-color:#00dD97;
+    height: auto;
+    width:200px;
+    float:left;
+    padding:25px;
+}
+#nav2{
+  font-size:30px;
+   font-family:cursive; 
+    line-height:33px;
+    background-color:#00dD97;
+    height:auto;
+    width:200px;
+    float:right;
+    padding:35px;
+}
+#nav3{
+    font-size:4px;
+  font-family:cursive; 
+    line-height:30px;
+    background-color:#00dD97;
+    height:auto;
+    width:200px;
+    float:left;
+    padding:3opx;
+}
+#nav4{  
+  font-size:30px;
+  font-family:cursive; 
+    line-height:30px;
+    background-color:#00dD97;
+    height:;
+    width:200px;
+    float:left;
+    padding:
+
+
+
+}
+
+
+
+
+
+#section {
+    width:80%;
+    Font-family: Josefin Slab;
+    font-size: 20px;
+    float:Left;
+    padding:10px;	 	 
+}
+
+#section h1{
+  font-size:2em;
+  color:red;
+  font-family:cursive;
+}
+
+
+#section h2 {
+  font-size: 2em;
+  color:red;
+  font-family:cursive;
+}
+
+#footer {
+    font-family:cursive;
+    background-color:#008D97; 
+     color:#ac4abc;
+    clear:both;
+    text-align:center;
+    padding:5px;	 	 
+}
+
+body {
+ background-image: url(http://p2e.mobi/wp-content/uploads/matrix-gifs-12.gif);
+  
+  
+}
+
+@font-face {
+    font-family: OhmBold;
+    src: url("http://toongifs.com/wp-content/uploads/2012/01/funny-cartoon-gifs-when-im-driving.gif");
+}
+
+body{
+  text-align: center;
+  font-family: OhmBold;
+  font-size: 72px;
+}
