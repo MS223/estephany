@@ -8,15 +8,7 @@
     text-align:center;
     padding: 1px;	 
 }
-#nav {
-    Font-family:cursive;
-    line-height:30px;
-    background-color:#00dD97;
-    height: auto;
-    width:200px;
-    float:left;
-    padding:25px;
-}
+
 #nav2{
   font-size:30px;
    font-family:cursive; 
